@@ -1,2 +1,4 @@
 # Blu
-Blu, it's api and source code
+Blu Docs
+
+## Introduction
