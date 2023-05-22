@@ -1,8 +1,8 @@
-# Blu
-Blu Docs
+# Cambridge Copilot
+CC Docs
 
 ## Introduction
-The Blu API has many features which will be described later, such as:
+The Cambridge Copilot API has many features which will be described later, such as:
 - Text completion
 - Talking to AI
 
