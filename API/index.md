@@ -5,4 +5,4 @@ Here are the contents:
 - Tokens.md
 - Usage.md
 
-**P.S- The API source code is private, and the API does indeed require api tokens and keys. When the Blu AI Platform launches, an API key will be readily avaiable to all users to spend their tokens via the API**
+**P.S- The API source code is private, and the API does indeed require api tokens and keys. When the Cambidge Copilot Platform launches, an API key will be readily avaiable to all users to spend their tokens via the API**
