@@ -13,8 +13,7 @@ Mainly, I see this API as a way of integrating AI with your python or something 
 So, for python first, see <a href="start.py">Start.py</a> to see how you can interact with the API.
 Here's a starter:
 
-## API Keys
-You currently cannot personally obtain an API key, instead, you may use a demo pre-loaded account.
-This works as a regular key, although it is prefilled weekly up till 23 tokens.
-### <b>API Key</b>
-<code>jtkzvpeetkzc</code>
+## Getting started
+You require a Copilot API Key, to obtain a key, sign up for an account at <a href="https://copilot.schooltool.io">copilot.schooltool.io</a>.
+
+Next, head over to your <a href="https://copilot.schooltool.io/dashboard/account.html"><Copilot Account Pag/a>
