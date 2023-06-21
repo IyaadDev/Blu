@@ -1,10 +1,8 @@
-# Cambridge Copilot
-CC Docs
+# Blu API
+**Documentation for the Blu AI API**
 
 ## Introduction
-The Cambridge Copilot API has many features which will be described later, such as:
-- Text completion
-- Talking to AI
+BluCrest is proud to introduce **Blu**, a groundbreaking API that enables seamless integration with your app. With Blu, developers can easily integrate AI into their apps, from Chatbots, web applications and even Siri Shortcuts, **The Blu API can be integrated into essentially anything**. One of the key features of Blu is its use of cheap tokens, making it accessible to developers of all levels. Additionally, Blu is incredibly smart and advanced, allowing for complex integrations and automations. Whether you're building a new app or enhancing an existing one, Blu is the perfect tool to help you take your project to the next level.
 
 ## Getting started
 I see no sense why you need to clone this in your terminal, yet, but here's how you have your first way with the API.
